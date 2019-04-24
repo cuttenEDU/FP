@@ -1,0 +1,1 @@
+f3 a b c = [[head a,b!!3],[b!!2,a!!(length a - 1)],[head a, head b, head c]]
